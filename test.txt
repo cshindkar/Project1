@@ -1,2 +1,3 @@
 Hi, This is my first file created in branch
 Added some details
+text added by Feature2
