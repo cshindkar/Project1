@@ -1,3 +1,7 @@
 Hi, This is my first file created in branch
 Added some details
+<<<<<<< HEAD
 added from master
+=======
+text added by Feature2
+>>>>>>> feature2
